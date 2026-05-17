@@ -1,4 +1,4 @@
-# InsidePlate Product Portfolio Case Study
+# InsidePlate - A Meal Prep & Health Tracker App
 <br><br>
 <img width="433" height="245" alt="Screenshot 2026-05-16 at 09 29 11" src="https://github.com/user-attachments/assets/9457eca1-feba-43c4-9004-123717cdd8bb" />
 <br><br>
