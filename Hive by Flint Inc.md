@@ -4,7 +4,7 @@ Small things. Big impact.
 
 Hive is a SaaS/PaaS platform built for financial sub-brokers — a centralized workspace for client management, portfolio analytics, and AI-powered investment recommendations.
 
-What is Hive? The financial broking ecosystem runs on fragmented tools, manual workflows, and delayed data. Hive changes that. Built for sub-brokers operating within larger broking networks, Hive gives principals full control over client data flows, portfolio visibility, and research distribution — all in one platform. And with an open AI integration layer, brokers can plug in their own trained models to deliver personalised recommendations at scale.
+What is Hive? The financial broking ecosystem runs on fragmented tools, manual workflows, and delayed data. Hive changes that. Built for sub-brokers operating within larger broking networks, Hive gives principals full control over client data flows, portfolio visibility, and research distribution combined all together in one platform. It also have an AI integration layer, brokers can plug in their own trained models to deliver personalised recommendations at scale.
 
 Core Capabilities 🗂️ Client & Sub-Broker Management
 
