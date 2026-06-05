@@ -33,7 +33,7 @@ Open integration interface for injecting custom-trained AI models Route AI-gener
 <br><br>
 ⚠️ Work in Progress — Core modules are functional. Research integration and AI recommendation layer are under active development.
 
-Development Approach Hive is a personal project built with AI-assisted development — architecture, product decisions, and business logic are owner-defined. Antigravity (Claude Opus) handled code generation and implementation, enabling rapid prototyping of a production-grade platform.
+Development Approach Hive is a personal project built with AI-assisted development — architecture, product decisions, and business logic are owner-defined. Antigravity/ Claude Code (Claude Opus) handled code generation and implementation, enabling rapid developemnt of a production-grade platform.
 <br><br>
 **Main Dashboard View (Updated)**
 
